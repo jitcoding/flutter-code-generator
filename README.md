@@ -1,1 +1,1 @@
-# flutter-code-generator
+Flutter Code Generator → [https://jit.dev/flutter-code-generator](https://jit.dev/flutter-code-generator)
